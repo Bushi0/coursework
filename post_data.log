@@ -1,0 +1,2727 @@
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [inventory] => стулья
+    [number_audience] => 11
+    [name_disciplines] => тактическая медицина
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => schedule
+    [show_table] => Показать таблицу schedule
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => audience
+    [new_name] => 4
+    [update_record] => Сохранить
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => audience
+    [new_name] => 
+    [update_record] => Сохранить
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => audience
+    [new_name] => 
+    [update_record] => Сохранить
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => audience
+    [new_name] => 
+    [update_record] => Сохранить
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => audience
+    [new_name] => 
+    [update_record] => Сохранить
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [edit_id] => 11
+    [table_name] => audience
+    [new_name] => 12
+    [update_record] => Сохранить
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [delete_id] => 11
+    [table_name] => audience
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => 
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => 
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => 
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [edit_id] => 410
+    [table_name] => 
+    [update_record] => Сохранить изменения
+)
+Array
+(
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => schedule
+    [show_table] => Показать таблицу schedule
+)
+Array
+(
+    [table_name] => schedule
+    [show_table] => Показать таблицу schedule
+)
+Array
+(
+    [table_name] => schedule
+    [show_table] => Показать таблицу schedule
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => it_has
+    [show_table] => Показать таблицу it_has
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [inventory] => стулья
+    [number_audience] => 11
+    [name_disciplines] => тактическая медицина
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 410
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 410
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => курвиметр, компас, карта
+    [number_audience] => 410
+    [name_disciplines] => тактическая подготовка                            
+    [table_name] => audience
+    [edit_id] => 410
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 413
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => маникен, жгуты, бинтыы
+    [number_audience] => 413
+    [name_disciplines] => тактическая медицина                              
+    [table_name] => audience
+    [edit_id] => 413
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 413
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => маникен, жгуты, бинты
+    [number_audience] => 413
+    [name_disciplines] => тактическая медицина                              
+    [table_name] => audience
+    [edit_id] => 413
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 11
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => стульяя
+    [number_audience] => 11
+    [name_disciplines] => тактическая медицина                              
+    [table_name] => audience
+    [edit_id] => 11
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 2
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => Шурикинн Дмитрий Константинович                    
+    [rank] => полковник                     
+    [id_teachers] => 2
+    [table_name] => teachers
+    [edit_id] => 2
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 2
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => Шурикин Дмитрий Константинович                   
+    [rank] => полковник                     
+    [id_teachers] => 2
+    [table_name] => teachers
+    [edit_id] => 2
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 3
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 3
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 3
+    [full_name_teachers] => Тымчук Алексей  Александрович                     
+    [rank] => генерал-майор                 
+    [id_teachers] => 3
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 4
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 4
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => удаленный преподаватель                           
+    [rank] => нет                           
+    [id_teachers] => 4
+    [table_name] => teachers
+    [edit_id] => 4
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 5
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Абрамов Михаил Денисович                          
+    [id_cadets] => 6
+    [table_name] => cadets
+    [edit_id] => 5
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => it_has
+    [show_table] => Показать таблицу it_has
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 5
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [edit_id] => 
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => it_has
+    [show_table] => Показать таблицу it_has
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+    [inventory] => 
+    [number_audience] => 
+    [name_disciplines] => 
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [add_record] => Добавить запись
+    [id_platoon] => 
+    [full_name_cadets] => 
+    [id_cadets] => 
+)
+Array
+(
+    [table_name] => cadets
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => cadets
+    [add_record] => Добавить запись
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+    [inventory] => 
+    [number_audience] => 
+    [name_disciplines] => 
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [add_record] => Добавить запись
+    [id_platoon] => 
+    [full_name_cadets] => 
+    [id_cadets] => 
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [inventory] => в
+    [number_audience] => 64
+    [name_disciplines] => тактическая медицина
+    [add_record] => Добавить запись
+    [table_name] => audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [delete_id] => 64
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [audience] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [audience] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record_row_id] => 11
+    [add_record_row] => +
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record_row_id] => 11
+    [add_record_row] => +
+)
+Array
+(
+    [table_name] => audience
+    [add_record_row_id] => 11
+    [add_record_row] => +
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record_table] => + Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [add_record_row_id] => 11
+    [add_record_row] => +
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [delete_id] => 11
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 413
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => маникен, жгуты, бинты
+    [number_audience] => 413
+    [name_disciplines] => тактическая медицина                              
+    [table_name] => audience
+    [edit_id] => 413
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [inventory] => стулья
+    [number_audience] => 11
+    [name_disciplines] => тактическая медицина
+    [table_name] => audience
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [delete_id] => 11
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 411
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => устав 
+    [number_audience] => 411
+    [name_disciplines] => общевоенная подготовка                            
+    [table_name] => audience
+    [edit_id] => 411
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 411
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => устав 
+    [number_audience] => 411
+    [name_disciplines] => общевоенная подготовка                            
+    [table_name] => audience
+    [edit_id] => 411
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [delete_id] => 
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 414
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => детали самолёта
+    [number_audience] => 414
+    [name_disciplines] => военно-техническая подготовка                     
+    [table_name] => audience
+    [edit_id] => 414
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [inventory] => детали самолёта
+    [number_audience] => 414
+    [name_disciplines] => военно-техническая подготовка                     
+    [table_name] => audience
+    [edit_id] => 414
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [inventory] => детали самолёта
+    [number_audience] => 414
+    [name_disciplines] => военно-техническая подготовка                     
+    [table_name] => audience
+    [edit_id] => 414
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 411
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => устав 
+    [number_audience] => 411
+    [name_disciplines] => общевоенная подготовка                            
+    [table_name] => audience
+    [edit_id] => 411
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => audience
+    [edit_id] => 411
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [inventory] => устав 
+    [number_audience] => 411
+    [name_disciplines] => общевоенная подготовка                            
+    [table_name] => audience
+    [edit_id] => 411
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => it_has
+    [show_table] => Показать таблицу it_has
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна
+    [rank] => генерал-майор
+    [id_teachers] => 1
+    [table_name] => teachers
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 1
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна                  
+    [rank] => генерал-майор    лох            
+    [id_teachers] => 1
+    [table_name] => teachers
+    [edit_id] => 1
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [delete_id] => 1
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна
+    [rank] => генерал-майор
+    [id_teachers] => 1
+    [table_name] => teachers
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Мананников Илья 
+    [id_cadets] => 130
+    [table_name] => cadets
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 6
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 6
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Климов Фёдор Иванович                             
+    [id_cadets] => 6
+    [table_name] => cadets
+    [edit_id] => 6
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Климов Фёдор Иванович                             
+    [id_cadets] => 6
+    [table_name] => cadets
+    [edit_id] => 6
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Климов Фёдор Иванович                             
+    [id_cadets] => 6
+    [table_name] => cadets
+    [edit_id] => 6
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 7
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 7
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 130
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Красиков Иван Александровичx
+    [id_cadets] => 135
+    [table_name] => cadets
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 8
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 8
+    [edit_record] => Редактировать запись
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [delete_id] => 1
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна
+    [rank] => генерал-майор
+    [id_teachers] => 1
+    [table_name] => teachers
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 8
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Шубин Илья Михайлович у                      
+    [id_cadets] => 8
+    [table_name] => cadets
+    [edit_id] => 8
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 9
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Касьянов Максим Фёдорович       ч                  
+    [id_cadets] => 9
+    [table_name] => cadets
+    [edit_id] => 9
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Касьянов Максим Фёдорович       ч                  
+    [id_cadets] => 9
+    [table_name] => cadets
+    [edit_id] => 9
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Касьянов Максим Фёдорович       ч                  
+    [id_cadets] => 9
+    [table_name] => cadets
+    [edit_id] => 9
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Касьянов Максим Фёдорович       ч                  
+    [id_cadets] => 9
+    [table_name] => cadets
+    [edit_id] => 9
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Касьянов Максим Фёдорович       ч                  
+    [id_cadets] => 9
+    [table_name] => cadets
+    [edit_id] => 9
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Касьянов Максим Фёдорович       ч                  
+    [id_cadets] => 9
+    [table_name] => cadets
+    [edit_id] => 9
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Касьянов Максим Фёдорович       ч                  
+    [id_cadets] => 9
+    [table_name] => cadets
+    [edit_id] => 9
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 11
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Прохоров Марк Матвеевичп  
+    [id_cadets] => 11
+    [table_name] => cadets
+    [edit_id] => 11
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Прохоров Марк Матвеевичп  
+    [id_cadets] => 11
+    [table_name] => cadets
+    [edit_id] => 11
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Прохоров Марк Матвеевичп  
+    [id_cadets] => 11
+    [table_name] => cadets
+    [edit_id] => 11
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 9
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 6
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 6
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 6
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 8
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 8
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [delete_id] => 1
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна
+    [rank] => генерал-майор
+    [id_teachers] => 1
+    [table_name] => teachers
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 1
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна                  
+    [rank] => генерал-майор                 
+    [id_teachers] => 2
+    [table_name] => teachers
+    [edit_id] => 1
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 1
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна                  
+    [rank] => генерал-майор                 
+    [id_teachers] => 5
+    [table_name] => teachers
+    [edit_id] => 1
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 5
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна                  
+    [rank] => генерал-майор                 
+    [id_teachers] => 5
+    [table_name] => teachers
+    [edit_id] => 5
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна                  
+    [rank] => генерал-майор                 
+    [id_teachers] => 5
+    [table_name] => teachers
+    [edit_id] => 5
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна                  
+    [rank] => генерал-майор                 
+    [id_teachers] => 5
+    [table_name] => teachers
+    [edit_id] => 5
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 112
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 112
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [delete_id] => 78
+    [delete_record] => Удалить запись
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+    [table_name] => teachers
+    [edit_id] => 5
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [full_name_teachers] => Богатова Виктория Константиновна                  
+    [rank] => генерал-майор                 
+    [id_teachers] => 1
+    [table_name] => teachers
+    [edit_id] => 5
+    [update_record] => Сохранить изменения
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Есин Иван
+    [id_cadets] => 136
+    [table_name] => cadets
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 136
+    [edit_record] => Редактировать запись
+)
+Array
+(
+)
+Array
+(
+    [table_name] => audience
+    [show_table] => Показать таблицу audience
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+)
+Array
+(
+    [table_name] => schedule
+    [show_table] => Показать таблицу schedule
+)
+Array
+(
+    [table_name] => schedule
+    [edit_id] => 20
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => estimates
+    [edit_id] => 2
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => schedule
+    [edit_id] => 20
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => it_has
+    [show_table] => Показать таблицу it_has
+)
+Array
+(
+    [table_name] => schedule
+    [show_table] => Показать таблицу schedule
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => it_has
+    [show_table] => Показать таблицу it_has
+)
+Array
+(
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+)
+Array
+(
+    [table_name] => teachers
+    [show_table] => Показать таблицу teachers
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => cadets
+    [edit_id] => 12
+    [edit_record] => Редактировать запись
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+    [table_name] => estimates
+    [show_table] => Показать таблицу estimates
+)
+Array
+(
+    [table_name] => platoon
+    [show_table] => Показать таблицу platoon
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [table_name] => it_has
+    [show_table] => Показать таблицу it_has
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Ушков Артем Аркадьевич
+    [id_cadets] => 118
+    [table_name] => cadets
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+    [id_platoon] => 1
+    [full_name_cadets] => Красиков Иван Александрович
+    [id_cadets] => 120
+    [table_name] => cadets
+    [add_record] => Добавить запись
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => cadets
+    [show_table] => Показать таблицу cadets
+)
+Array
+(
+)
+Array
+(
+    [table_name] => disciplines
+    [show_table] => Показать таблицу disciplines
+)
+Array
+(
+)
